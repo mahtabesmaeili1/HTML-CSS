@@ -1,1 +1,7 @@
+1- (to create hidden directory: mkdir .directoryname
+hidden file: touch .filename
+to show the list item : Ls -a)
+2-( mkdir -p directory1/2/3/4 ...)
+3-( echo -n "some text here" >> file.txt
+printf %s -n "some text here" >> file.txt)
 
